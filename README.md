@@ -1,5 +1,9 @@
 # arduino.sh
 
+[![Codecheck](https://github.com/x70b1/arduino.sh/workflows/Codecheck/badge.svg?branch=master)](https://github.com/x70b1/arduino.sh/actions)
+[![GitHub contributors](https://img.shields.io/github/contributors/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/graphs/contributors)
+[![license](https://img.shields.io/github/license/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/blob/master/LICENSE)
+
 Build code and upload it to an Arduino board using `arduino-cli`.
 
 Use this script in existing projects to simplify development and deployment.
