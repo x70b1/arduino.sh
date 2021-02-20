@@ -1,0 +1,4 @@
+directories:
+  data: data/
+  downloads: src/
+  user: .
