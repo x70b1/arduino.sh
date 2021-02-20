@@ -1,6 +1,6 @@
 # arduino.sh
 
-Build code and upload it to an Arduino board.
+Build code and upload it to an Arduino board using `arduino-cli`.
 
 
 ## build_vars.sh
