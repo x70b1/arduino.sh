@@ -2,6 +2,8 @@
 
 Build code and upload it to an Arduino board using `arduino-cli`.
 
+Use this script in existing projects to simplify development and deployment.
+
 
 ## build_vars.sh
 
