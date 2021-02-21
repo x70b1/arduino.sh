@@ -20,18 +20,9 @@ An example for a full `build_vars.sh` file:
 SETUP_FQBN="arduino:megaavr:nona4809"
 SETUP_CORE="arduino:megaavr"
 SETUP_PORT=/dev/ttyACM0
-SETUP_CONFIG=arduino-cli.yaml
 
 PROJECT_TITLE="Title"
 PROJECT_DESCRIPTION="Cool description."
 PROJECT_URL="github.com/user/project"
 PROJECT_BASE="https://store.arduino.cc/arduino-nano"
-PROJECT_FIGLET="
- █████╗ ██████╗ ██████╗ ██╗   ██╗██╗███╗   ██╗ ██████╗     ███╗   ██╗ █████╗ ███╗   ██╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║████╗  ██║██╔═══██╗    ████╗  ██║██╔══██╗████╗  ██║██╔═══██╗
-███████║██████╔╝██║  ██║██║   ██║██║██╔██╗ ██║██║   ██║    ██╔██╗ ██║███████║██╔██╗ ██║██║   ██║
-██╔══██║██╔══██╗██║  ██║██║   ██║██║██║╚██╗██║██║   ██║    ██║╚██╗██║██╔══██║██║╚██╗██║██║   ██║
-██║  ██║██║  ██║██████╔╝╚██████╔╝██║██║ ╚████║╚██████╔╝    ██║ ╚████║██║  ██║██║ ╚████║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-"
 ```
