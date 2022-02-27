@@ -13,7 +13,7 @@ Use this script in existing projects to simplify development and deployment.
 
 An example for a full `build_vars.sh` file:
 
-```
+```sh
 #!/bin/sh
 # shellcheck disable=SC2034
 
