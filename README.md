@@ -1,8 +1,8 @@
 # arduino.sh
 
-[![Codecheck](https://github.com/x70b1/arduino.sh/workflows/Codecheck/badge.svg?branch=master)](https://github.com/x70b1/arduino.sh/actions)
-[![GitHub contributors](https://img.shields.io/github/contributors/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/graphs/contributors)
-[![license](https://img.shields.io/github/license/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/blob/master/LICENSE)
+[![Actions](https://github.com/x70b1/arduino.sh/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/x70b1/arduino.sh/actions)
+[![Contributors](https://img.shields.io/github/contributors/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/graphs/contributors)
+[![License](https://img.shields.io/github/license/x70b1/arduino.sh.svg)](https://github.com/x70b1/arduino.sh/blob/master/LICENSE)
 
 Build code and upload it to an Arduino board using `arduino-cli`.
 
